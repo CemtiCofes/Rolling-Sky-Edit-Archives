@@ -1,5 +1,5 @@
 # Rolling Sky Edit Archives
-These are the unencrypted level files for CUNC levels.
+These are the unencrypted level files for my Rolling Sky Edits.
 
 To play these levels, I recommend using Rolling Sky Unlocked:
 https://drive.google.com/drive/folders/1TOVFp5pwICQG5swru3-kKigRyowmn5fq
