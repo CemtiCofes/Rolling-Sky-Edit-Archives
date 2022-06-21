@@ -7,3 +7,5 @@ https://drive.google.com/drive/folders/1TOVFp5pwICQG5swru3-kKigRyowmn5fq
   - Level and End files go to Levels
   - Theme files go to Themes
   - geoBuffer files go to GeoBuffers
+
+Note: These level files are not the final version of the edits.
