@@ -1,0 +1,8 @@
+0,39,1,0,False,False,False,True,False,False,False,False,False,False
+151,40,1,0,False,False,False,True,False,False,False,False,False,False
+293,39,1,0,False,False,False,True,False,False,False,False,False,False
+431,40,1,0,False,False,False,True,False,False,False,False,False,False
+576,39,1,0,False,False,False,True,False,False,False,False,False,False
+723,40,1,0,False,False,False,True,False,False,False,False,False,False
+870,39,1,0,False,False,False,True,False,False,False,False,False,False
+1013,40,1,0,False,False,False,True,False,False,False,False,False,False

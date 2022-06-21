@@ -1,0 +1,7 @@
+0,59,1,0,False,False,False,True,False,False,False,False,False,True
+150,59,1,0,False,False,False,True,False,True,False,False,False,False
+271,59,1,0,False,False,False,True,False,False,False,False,False,True
+570,59,1,0,True,False,False,True,False,False,False,False,False,False
+643,59,1,0,False,False,False,True,False,True,False,False,False,False
+931,59,1,0,True,False,False,True,False,False,False,False,False,False
+1003,59,1,0,False,False,False,True,False,False,False,False,False,True
