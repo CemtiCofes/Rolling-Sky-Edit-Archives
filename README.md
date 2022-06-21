@@ -8,4 +8,7 @@ https://drive.google.com/drive/folders/1TOVFp5pwICQG5swru3-kKigRyowmn5fq
   - Theme files go to Themes
   - geoBuffer files go to GeoBuffers
 
-Note: These level files are not the final version of the edits.
+Notes:
+- These level files are not the final version of the edits.
+- Music won't play in-game. You have to use a video editor to insert the music.
+  - A trimmed music file for Symbolism pt. II and VIMH are included in the folders.
